@@ -103,6 +103,6 @@ export default {
 
 .rocket-width{
 	margin: auto;
-	width: 300px;
+	width: 330px;
 }
 </style>
