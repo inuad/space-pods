@@ -18,5 +18,5 @@
 | username  | Your github's username  | inuad |
 | pattern  | Pod template  | 1 |
 
-There're 3 pattern for your pods .
-Please check the pattern in (space-pods -> pattern.txt)
+There're 3 patterns for your pod .
+Please check the patterns in (space-pods -> pattern.txt)
